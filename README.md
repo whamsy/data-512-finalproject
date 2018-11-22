@@ -4,7 +4,7 @@ The repository contains the plan for DATA 512's final project submission by Vams
 
 ## Plan
 
-The aim of this project is to analyze IMDB's actor and movie datasets for gender statistics in terms of number of actors and actresses potrayed on the screen every year, and visualiza the statistics obtained for the time period over which data is available.
+The aim of this project is to analyze IMDB's actor and movie datasets for gender statistics in terms of number of actors and actresses potrayed on the screen every year, and visualize the statistics obtained for the time period over which data is available.
 
 ## Data
 
